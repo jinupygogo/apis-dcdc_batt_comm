@@ -48,8 +48,8 @@ $ deactivate
 
 
 ## License
-&emsp;[Apache License Version 2.0](https://github.com/oes-github/apis-dcdc_batt_comm/blob/master/LICENSE)
+&emsp;[Apache License Version 2.0](https://github.com/SonyCSL/apis-dcdc_batt_comm/blob/master/LICENSE)
 
 
 ## Notice
-&emsp;[Notice](https://github.com/oes-github/apis-dcdc_batt_comm/blob/master/NOTICE.md)
+&emsp;[Notice](https://github.com/SonyCSL/apis-dcdc_batt_comm/blob/master/NOTICE.md)
